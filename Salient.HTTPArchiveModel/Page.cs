@@ -7,7 +7,7 @@ namespace Salient.HTTPArchiveModel
     {
         public Page()
         {
-            pageTimings = new PageTimings();
+       
         }
 
         /// <summary>

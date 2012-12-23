@@ -9,10 +9,7 @@ namespace Salient.HTTPArchiveModel
     {
         public Request()
         {
-            cookies = new List<Cookie>();
-            headers = new List<NameValuePair>();
-            queryString = new List<NameValuePair>();
-            postData = new PostData();
+ 
             headersSize = -1;
             bodySize = -1;
         }

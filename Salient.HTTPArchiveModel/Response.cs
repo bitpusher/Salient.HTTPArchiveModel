@@ -9,9 +9,7 @@ namespace Salient.HTTPArchiveModel
     {
         public Response()
         {
-            headers = new List<NameValuePair>();
-            content = new Content();
-            cookies = new List<Cookie>();
+ 
             headersSize = -1;
             bodySize = -1;
         }

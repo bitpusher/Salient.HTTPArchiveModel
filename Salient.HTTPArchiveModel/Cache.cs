@@ -9,8 +9,7 @@ namespace Salient.HTTPArchiveModel
     {
         public Cache()
         {
-            beforeRequest = null;
-            afterRequest = null;
+ 
         }
 
         /// <summary>

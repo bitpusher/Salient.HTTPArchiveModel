@@ -12,10 +12,7 @@ namespace Salient.HTTPArchiveModel
         public Entry()
         {
             time = -1;
-            cache = new Cache();
-            timings = new Timings();
-            response = new Response();
-            request = new Request();
+ 
         }
 
         /// <summary>

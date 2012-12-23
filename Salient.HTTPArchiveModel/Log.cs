@@ -10,10 +10,7 @@ namespace Salient.HTTPArchiveModel
     {
         public Log()
         {
-            Entries = new List<Entry>();
-            pages = new List<Page>();
-            creator = new VersionInfo();
-            browser = new VersionInfo();
+ 
         }
 
         /// <summary>
